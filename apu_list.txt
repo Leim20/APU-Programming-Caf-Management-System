@@ -1,0 +1,11 @@
+admin,admin@apu.edu.my,admin123,a
+weijun,weijun@apu.edu.my,123456,a
+john_trainer,john@apu.edu.my,pass123,b
+mary_trainer,mary@apu.edu.my,pass123,b
+sarah_lecturer,sarah@apu.edu.my,pass123,c
+david_lecturer,david@apu.edu.my,pass123,c
+alice_student,alice@apu.edu.my,pass123,d
+bob_student,bob@apu.edu.my,pass123,d
+emma_student,emma@apu.edu.my,pass123,d
+james_student,james@apu.edu.my,pass123,d
+lisa_student,lisa@apu.edu.my,pass123,d

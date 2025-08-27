@@ -1,0 +1,7 @@
+alice_student,TP12345678,Python Programming,Beginner,john_trainer,alice@apu.edu.my,0123456789,January,150.00,paid,STU0001,123 Main St KL
+bob_student,TP23456789,Java Programming,Beginner,mary_trainer,bob@apu.edu.my,0123456790,February,180.00,unpaid,STU0002,456 Oak Ave PJ
+emma_student,TP34567890,Python Programming,Intermediate,john_trainer,emma@apu.edu.my,0123456791,January,200.00,paid,STU0003,789 Pine Rd Shah Alam
+james_student,TP45678901,Web Development,Intermediate,alex_trainer,james@apu.edu.my,0123456792,March,220.00,unpaid,STU0004,321 Elm St Subang
+lisa_student,TP56789012,Database Systems,Beginner,jenny_trainer,lisa@apu.edu.my,0123456793,February,160.00,paid,STU0005,654 Cedar Blvd Cyberjaya
+alice_student,TP12345678,Java Programming,Advanced,mary_trainer,alice@apu.edu.my,0123456789,March,250.00,unpaid,STU0006,123 Main St KL
+bob_student,TP23456789,C++ Programming,Advanced,john_trainer,bob@apu.edu.my,0123456790,April,280.00,unpaid,STU0007,456 Oak Ave PJ

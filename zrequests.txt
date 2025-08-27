@@ -1,0 +1,4 @@
+emma_student,Data Structures,Intermediate,pending,2024-01-15 10:30:00
+james_student,Python Programming,Advanced,pending,2024-01-16 14:20:00
+lisa_student,Web Development,Intermediate,approved,2024-01-14 09:15:00
+bob_student,Database Systems,Advanced,rejected,2024-01-13 16:45:00
